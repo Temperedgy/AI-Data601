@@ -1,0 +1,14 @@
+So here are the instructions as I understand them so far.... (>> are exempt/# in py.)
+
+1. Start PowerShell
+2. you need to check that you are in the correct folder to begin with...
+3. For good measure run a >> git status
+4. use either >>notepade or >>atom (the font will be yellow)
+5. Prompt to create a new file or autocreate... in either case make a new file...
+6. Fill it with whatever you want
+7. Save said file
+8. run >>git status just for sh*s and gigs
+9. if it's green you're good to go to first commit, then push
+10. >>git commit -a (indicating all files are to be committed) -m (indicating you want to include a message in '') 'message contents'
+11. >>git push (which actually sends whatever local git work you've been doing onto the GitHub Cloud
+12. Cross fingers...
