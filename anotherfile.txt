@@ -1,1 +1,4 @@
 This is a new file testing 123
+
+This was pretty fun to try opening again...
+I don't know the commands to close this file.
